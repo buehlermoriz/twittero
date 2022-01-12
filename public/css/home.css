@@ -1,0 +1,19 @@
+/* Home page styles */
+h1 {
+    font-size: 5em;
+}
+.blue {
+    background-color: #00acee;
+}
+.divider-250 {
+    width: 101%;
+    height: 250px;
+    position: relative;
+    background-color: #00acee;
+}
+.divider-100 {
+    width: 101%;
+    height: 100px;
+    position: relative;
+    background-color: #00acee;
+}
